@@ -26,7 +26,10 @@ This project automates the extraction, transformation, and loading of real-time 
 -> Python & Pandas (data processing)
 
 -> OpenWeatherMap API (weather source)
-![**DAG**](images/DAG.png)
+
+### **🗺️ DAG**
+
+![](images/DAG.png)
 
 
 
