@@ -27,7 +27,7 @@ This project automates the extraction, transformation, and loading of real-time 
 
 -> OpenWeatherMap API (weather source)
 
-### **🗺️ DAG**
+### **DAG**
 
 ![](images/DAG.png)
 
