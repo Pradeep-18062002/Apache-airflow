@@ -5,20 +5,27 @@ This project automates the extraction, transformation, and loading of real-time 
 
 **🛠️ Features**
 
-Automated Weather Data Collection (Chicago)
-Data Transformation (Kelvin to Fahrenheit, UTC to local timestamps)
-Daily Upload to AWS S3
-Orchestration via Apache Airflow on an EC2 Instance
-Credential-secure setup using IAM User with S3 policy
+-> Automated Weather Data Collection (Chicago)
+
+-> Data Transformation (Kelvin to Fahrenheit, UTC to local timestamps)
+
+-> Daily Upload to AWS S3
+
+-> Orchestration via Apache Airflow on an EC2 Instance
+
+-> Credential-secure setup using IAM User with S3 policy
 
 **⚙️ Technologies Used**
 
 -> Apache Airflow (workflow orchestration)
 
-AWS EC2 (Airflow host)
-AWS S3 (cloud data storage)
-Python & Pandas (data processing)
-OpenWeatherMap API (weather source)
+-> AWS EC2 (Airflow host)
+
+-> AWS S3 (cloud data storage)
+
+-> Python & Pandas (data processing)
+
+-> OpenWeatherMap API (weather source)
 ![**DAG**](images/DAG.png)
 
 
