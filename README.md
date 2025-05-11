@@ -1,6 +1,7 @@
 Weather Data Pipeline with Apache Airflow, AWS S3 & EC2
 
 **📌 Project Overview**
+
 This project automates the extraction, transformation, and loading of real-time weather data for Chicago. Using Apache Airflow running on an AWS EC2 instance, it fetches weather data from the OpenWeatherMap API, transforms it, and uploads the result to an S3 bucket. It is scheduled to run daily and is designed to be robust, modular, and cloud-ready.
 
 **🛠️ Features**
