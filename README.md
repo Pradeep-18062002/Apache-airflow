@@ -13,7 +13,8 @@ Credential-secure setup using IAM User with S3 policy
 
 **⚙️ Technologies Used**
 
-Apache Airflow (workflow orchestration)
+-> Apache Airflow (workflow orchestration)
+
 AWS EC2 (Airflow host)
 AWS S3 (cloud data storage)
 Python & Pandas (data processing)
