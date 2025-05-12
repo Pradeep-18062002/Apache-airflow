@@ -1,4 +1,4 @@
-###**Weather Data Pipeline with Apache Airflow, AWS S3 & EC2**
+### **Weather Data Pipeline with Apache Airflow, AWS S3 & EC2**
 
 ### **📌 Project Overview**
 
